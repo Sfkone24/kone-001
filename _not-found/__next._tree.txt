@@ -1,0 +1,4 @@
+:HL["/kone-001/_next/static/chunks/44bqdas0kv7oy.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"F1SZjw_twL7vSuWQ6ydPD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
